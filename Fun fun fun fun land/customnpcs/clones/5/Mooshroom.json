@@ -1,0 +1,81 @@
+{
+    DropChances: [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    Age: 0,
+    UUIDLeast: -7414441623139233287L,
+    Attributes: [
+        {
+            Name: "generic.maxHealth",
+            Base: 10.0d
+        },
+        {
+            Name: "generic.knockbackResistance",
+            Base: 0.0d
+        },
+        {
+            Name: "generic.movementSpeed",
+            Base: 0.20000000298023224d
+        },
+        {
+            Name: "generic.followRange",
+            Base: 16.0d,
+            Modifiers: [
+                {
+                    Name: "Random spawn bonus",
+                    UUIDLeast: -5309455540770427305L,
+                    Operation: 1,
+                    Amount: 0.014340694217312955d,
+                    UUIDMost: -3419032909799407600L
+                }
+            ]
+        }
+    ],
+    Motion: [
+        0.011323383117698142d,
+        -0.0784000015258789d,
+        -0.045763545454503465d
+    ],
+    CustomName: "",
+    Health: 9s,
+    HealF: 8.5f,
+    CustomNameVisible: 0b,
+    id: "MushroomCow",
+    AttackTime: 0s,
+    Fire: -1s,
+    Invulnerable: 0b,
+    ModRev: 1,
+    DeathTime: 0s,
+    AbsorptionAmount: 0.0f,
+    Equipment: [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    InLove: 0,
+    OnGround: 1b,
+    HurtTime: 0s,
+    UUIDMost: -7472130615308890241L,
+    Dimension: 0,
+    Air: 300s,
+    CanPickUpLoot: 0b,
+    PortalCooldown: 0,
+    PersistenceRequired: 0b,
+    Leashed: 0b,
+    FallDistance: 0.0f,
+    Rotation: [
+        193.89984f,
+        0.0f
+    ]
+}
