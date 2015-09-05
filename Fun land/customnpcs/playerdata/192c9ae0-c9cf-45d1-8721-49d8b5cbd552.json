@@ -19,6 +19,10 @@
     ],
     PlayerName: "gcgaudette",
     FactionData: [
+        {
+            Faction: 0,
+            Points: 2000
+        }
     ],
     DialogData: [
     ]
