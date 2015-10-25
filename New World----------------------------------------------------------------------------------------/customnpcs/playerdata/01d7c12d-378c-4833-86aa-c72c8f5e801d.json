@@ -1,25 +1,43 @@
 {
     ItemGiverChained: [
     ],
-    ItemGiversList: [
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 1000,
+            Faction: 1
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
     ],
     BankData: [
     ],
-    PlayerCompanionId: 0,
+    ItemGiversList: [
+    ],
     MailData: [
     ],
-    UUID: "01d7c12d-378c-4833-86aa-c72c8f5e801d",
+    PlayerName: "Gillegan",
     QuestData: {
         CompletedQuests: [
         ],
         ActiveQuests: [
         ]
     },
-    TransportData: [
-    ],
-    PlayerName: "Gillegan",
-    FactionData: [
-    ],
+    UUID: "01d7c12d-378c-4833-86aa-c72c8f5e801d",
+    PlayerCompanionId: 0,
     DialogData: [
+        {
+            Dialog: 1
+        },
+        {
+            Dialog: 3
+        }
     ]
 }
