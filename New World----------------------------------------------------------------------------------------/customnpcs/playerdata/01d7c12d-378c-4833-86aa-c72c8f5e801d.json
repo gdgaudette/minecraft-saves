@@ -31,7 +31,7 @@
         ]
     },
     UUID: "01d7c12d-378c-4833-86aa-c72c8f5e801d",
-    PlayerCompanionId: 0,
+    PlayerCompanionId: 15,
     DialogData: [
         {
             Dialog: 1
